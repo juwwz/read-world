@@ -3,6 +3,13 @@
 
 ReadWorld is an app designed to help individuals with reading difficulties track their reading progress while enhancing comprehension and enjoyment. After completing each chapter, the app generates a summary and provides a simple quiz with questions related to the chapter's content to reinforce understanding.
 
+## Contact
+
+For any questions or suggestions, please contact:
+
+- **Email**: julianwzwang2024@gmail.com
+- **GitHub**: juwwz
+
 ## Features
 
 - **Chapter Summaries & Quizzes**: Automatically generates chapter summaries and quizzes after each reading session to help users reinforce their comprehension.
@@ -66,9 +73,4 @@ We welcome contributions! To contribute:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
 
-For any questions or suggestions, please contact:
-
-- **Email**: julianwzwang2024@gmail.com
-- **GitHub**: juwwz
